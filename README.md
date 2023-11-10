@@ -28,7 +28,7 @@ basic vi commands\
 `esc` : command mod\
 `:w` : write\
 `:q` : quit\
-`:wq` : write and quit\
+`:wq` : write and quit
 
 ```bash
 gh auth login --with-token < token.txt
