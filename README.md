@@ -22,19 +22,13 @@ create txt file for save your token.
 vi token.txt
 ```
 
-and insert your token. 
-
-basic vi commands 
-
-`i` : insert mod
-
-`esc` : command mod
-
-`:w` : write
-
-`:q` : quit
-
-`:wq` : write and quit
+and insert your token.\
+basic vi commands\
+`i` : insert mod\
+`esc` : command mod\
+`:w` : write\
+`:q` : quit\
+`:wq` : write and quit\
 
 ```bash
 gh auth login --with-token < token.txt
