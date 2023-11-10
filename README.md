@@ -12,4 +12,4 @@ I used homebrew
 brew install gh
 ```
 
-[!git-logo](./img/Git-Icon-Black.png)
+![git-logo](./img/Git-Icon-Black.png)
