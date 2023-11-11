@@ -6,7 +6,7 @@ My gh cli study
 gh is Github Command Line tool so check out [here](https://cli.github.com/)
 
 # Install
-I used homebrew
+I used [homebrew](https://brew.sh/)
 
 ```bash
 brew install gh
